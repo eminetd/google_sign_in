@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303700870693",
+    "project_id": "signinasyncredux",
+    "storage_bucket": "signinasyncredux.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303700870693:android:e4797cdce8bcbb3c78a1cc",
+        "android_client_info": {
+          "package_name": "com.example.googlesign_async_redux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjm9D_v6gH6EGnVC3AnrrneZKA0QfZU00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
